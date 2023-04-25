@@ -1,4 +1,4 @@
-public class CscFunc {
+public class CscFunc implements Function {
     private SinFunc sin;
 
     public CscFunc() {
